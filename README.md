@@ -1,4 +1,4 @@
-<header>
+</header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in pull_request_target._
 
 </header>
 
@@ -34,9 +34,9 @@ In this course, you will:
 1. Create a branch
 2. Commit a file
 3. Open a pull request
-4. Merge your pull request
-
-### How to start this course
+4. your pull request
+ 
+## How to start this course
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
@@ -61,8 +61,8 @@ In this course, you will:
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  <<< Author notes: out the project's instructions for getting supporr >>>
+  Add a link Be sure to review the contributing guidelines and code of conduct and accepted check out the projects security policy
 -->
 
 ---
